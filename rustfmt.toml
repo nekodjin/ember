@@ -1,0 +1,4 @@
+# note - this rustfmt config requires nightly rustfmt
+
+max_width = 75
+control_brace_style = "ClosingNextLine"
